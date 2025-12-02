@@ -59,21 +59,3 @@ I also create structured, welcoming **community spaces** that help people connec
 ![](https://github-contributor-stats.vercel.app/api?username=MooCalf&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
 ---
-
-### 👁️ **Profile Views**
-
-[![](https://visitcount.itsvg.in/api?id=MooCalf&icon=0&color=9)](https://visitcount.itsvg.in)
-
----
-
-## ✨ **Signature Style (Optional Add-ons)**  
-If you want, I can add:
-
-- A **custom purple cosmic banner** with your 3-eyed demon cat mascot  
-- A motto or quote  
-- A “Currently working on…” section  
-- A 3D artwork showcase section  
-- An ASCII signature  
-- A glowing animated SVG divider  
-
-Just tell me what you'd like added!
