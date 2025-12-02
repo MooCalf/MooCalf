@@ -62,7 +62,7 @@ I also create structured, welcoming **community spaces** that help people connec
 
 ### 👁️ **Profile Views**
 
-[![](https://visitcount.itsvg.in/api?id=MooCalf&icon=0&color=9D4EDD)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MooCalf&icon=0&color=9)](https://visitcount.itsvg.in)
 
 ---
 
