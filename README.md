@@ -1,4 +1,4 @@
-# 🌌 **MooCalf — Creative Developer & 3D Artist**
+# **MooCalf — Creative Developer & 3D Artist**
 
 I'm a **3D modeler**, **graphic designer**, and **digital world-builder** who blends astronomy-inspired visuals with modern technical design.  
 I enjoy transforming ideas into immersive visuals and functional digital experiences.  
