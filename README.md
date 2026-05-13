@@ -38,16 +38,6 @@ I also create structured, welcoming **community spaces** that help people connec
 
 ---
 
-# 🌙 **Cosmic GitHub Stats**
-
-![](https://github-readme-stats.vercel.app/api?username=MooCalf&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=MooCalf&theme=midnight-purple&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MooCalf&theme=midnight-purple&hide_border=false&layout=compact)
-
----
-
 ## 🏆 **Achievements**
 
 ![](https://github-profile-trophy.vercel.app/?username=MooCalf&theme=onestar&no-frame=true&row=1&margin-w=8)
